@@ -1,2 +1,1 @@
-# _-RepositorioHenry-_
-Homeworkmodulo2
+Kthenner Rojas homework modulo 2
